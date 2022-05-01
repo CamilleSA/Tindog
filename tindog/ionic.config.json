@@ -1,0 +1,7 @@
+{
+  "name": "tindog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
